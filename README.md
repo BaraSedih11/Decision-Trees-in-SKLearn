@@ -5,7 +5,7 @@
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Decision-Trees-in-SKLearn) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Decision-Trees-in-SKLearn) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Decision-Trees-in-SKLearn/main)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Decision-Trees-in-SKLearn/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/Decision-Trees-in-SKLearn/releases/tag/v1.0.0)
 [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Decision-Trees-in-SKLearn)](https://github.com/BaraSedih11/Decision-Trees-in-SKLearn/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Decision-Trees-in-SKLearn)
 <!-- ![GitHub issues](https://img.shields.io/github/issues-raw/BaraSedih11/Bookstore)  -->
@@ -18,7 +18,7 @@ This repository contains an implementation of decision trees using sckit-learn.
 
 Multiple linear regression is an extension of simple linear regression, where the relationship between a dependent variable and two or more independent variables is modeled. It assumes a linear relationship between the input variables (features) and the output variable (target), allowing for more complex modeling scenarios.
 
-In this repository, we demonstrate how to perform multiple linear regression using Python. We utilize libraries such as NumPy, pandas, and scikit-learn to implement and visualize the regression model. Additionally, we provide a simple example along with explanations to help you understand how to apply multiple linear regression to your own datasets.
+In this repository, we demonstrate how to perform multiple linear regression using Python. We utilize libraries such as NumPy, pandas, and scikit-learn to implement the decision trees model. Additionally, we provide a simple example along with explanations to help you understand how to apply decision trees to your own datasets.
 
 ## Requirements
 
@@ -51,7 +51,7 @@ cd DecisionTreesinSKLearn
 
 3. Open and run the Jupyter Notebook `DecisionTreesinSKLearn.ipynb` using Jupyter Notebook or JupyterLab.
 
-4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand how decision trees is implemented using Python.
 
 
 ## Acknowledgements
